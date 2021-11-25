@@ -8,3 +8,6 @@
 
 คลิปการใช้คำสั่ง dig ในการหาip ที่ต้องการ
 <https://youtu.be/DhunHMdM_L0>
+
+คลิปอธิบายเพิ่มเติม Tor browser ตามความเข้าใจจากที่เรียน
+<https://youtu.be/j3F6EBRRWTk>
